@@ -1,0 +1,69 @@
+# Archivos y carpetas generados por TypeScript
+node_modules/
+dist/
+*.js
+*.js.map
+*.d.ts
+
+# Archivos de configuracion
+config.json
+
+# Archivos de configuración de desarrollo local
+.env
+.env.local
+.env.*.local
+
+# Archivos y carpetas específicos de editores de texto
+.vscode/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+
+# Archivos y carpetas de pruebas y reportes
+coverage/
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.log
+*.rpt
+*.junit
+*.xml
+*.html
+*.lcov
+
+# Archivos y carpetas específicos del sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Otros archivos y carpetas generados o no deseados
+*.tmp
+*.bak
+*.swp
+*.cache
+*.bak
+*.orig
+*.rej
+*.dll
+*.log
+*.sqlite
+*.log.*
+*.sublime-project.swp
+*.swo
+*.swn
+*.class
+*.iml
+*.ipr
+*.iws
+*.nbproject/
+*.xcuserdata/
+*.sxcu
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.xcuserdatad/
+*.xcscheme
+*.xcworkspace/
+*.xcuserstate

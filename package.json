@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.6.1",
+    "@sapphire/snowflake": "^2.0.2",
+    "discord.js": "^14.9.0",
+    "node-schedule": "^2.1.1",
+    "typescript": "^5.0.4"
+  },
+  "name": "anime_olympus",
+  "version": "1.0.0",
+  "description": "API de anime",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "tsc",
+    "test": "jest"
+  },
+  "author": "dguttman",
+  "license": "ISC",
+  "compilerOptions": {
+    "sourceMap": true,
+    "outDir": "dist",
+    "target": "esnext",
+    "module": "CommonJS",
+    "strict": true,
+    "lib": [
+      "esnext"
+    ],
+    "esModuleInterop": true
+  }
+}

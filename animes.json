@@ -1,0 +1,28 @@
+[
+  {
+    "nombre": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+    "descripcion": "Tercera temporada de Kimetsu no Yaiba",
+    "thumbnail": "https://www3.animeflv.net/uploads/animes/covers/3801.jpg",
+    "url": {
+      "animeflv": "https://www3.animeflv.net/anime/kimetsu-no-yaiba-katanakaji-no-satohen"
+    },
+    "emision_semanal": {
+      "dia_semana": 2,
+      "hora": 12,
+      "minuto": 51
+    }
+  },
+  {
+    "nombre": "Kizuna no Allele",
+    "descripcion": "Esta es una historia sobre los vínculos entre chicas. Kizuna Ai apareció como un cometa en el mundo virtual, haciéndose masivamente popular en un abrir y cerrar de ojos. Después de cinco años consecutivos consiguiendo el Lapin Doll -el más alto honor de los Premios de la Red Virtual- desapareció tan rápido como llegó. Han pasado varios meses desde entonces… La Academia ADEN es una escuela que se especializa en la formación de nuevos talentos que harán su debut en el mundo virtual. Allí, los estudiantes, cada uno con sus propias esperanzas y sueños, trabajan duro cada día. “¡Quiero ser una artista virtual como AI!” Una joven llamada Miracle se inscribe en la Academia ADEN con esta convicción en su corazón. Allí conocerá a todo tipo de personas y creará nuevos y maravillosos recuerdos con ellas mientras cada una persigue sus sueños. ¿Estás preparada?",
+    "thumbnail": "https://www3.animeflv.net/uploads/animes/covers/3778.jpg",
+    "url": {
+      "animeflv": "https://www3.animeflv.net/anime/kizuna-no-allele"
+    },
+    "emision_semanal": {
+      "dia_semana": 2,
+      "hora": 12,
+      "minuto": 51
+    }
+  }
+]
