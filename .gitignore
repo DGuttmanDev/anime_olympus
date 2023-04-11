@@ -8,6 +8,9 @@ dist/
 # Archivos de configuracion
 config.json
 
+# Archivos temporales
+Temp.ts
+
 # Archivos de configuración de desarrollo local
 .env
 .env.local
